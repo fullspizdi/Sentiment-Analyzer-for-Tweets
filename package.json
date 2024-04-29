@@ -1,0 +1,13 @@
+{
+  "name": "sentiment-analyzer-for-tweets",
+  "version": "1.0.0",
+  "description": "A project to analyze sentiment in tweets using Twitter API and Hugging Face Transformers",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "twitter-api-sdk": "^2.0.0",
+    "@nlpjs/transformers": "^1.0.0"
+  }
+}
